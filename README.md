@@ -8,7 +8,7 @@ Quiz Master allows administrators to create and manage MCQ-based quizzes while u
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Quiz Master was developed as a semester project to demonstrate practical programming concepts including:
 
@@ -28,9 +28,9 @@ The application uses **Tkinter** for the graphical interface and **MySQL** for p
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 User Features
+###  User Features
 
 * User registration
 * Secure login interface
@@ -47,7 +47,7 @@ The application uses **Tkinter** for the graphical interface and **MySQL** for p
 * Text-to-speech feedback
 * Interactive Robo assistant
 
-### 🛠️ Admin Features
+###  Admin Features
 
 * Admin authentication
 * Admin dashboard
