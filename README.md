@@ -60,7 +60,7 @@ The application uses **Tkinter** for the graphical interface and **MySQL** for p
 * View certificates
 * Manage quiz data
 
-### 🎨 Interface
+###  Interface
 
 * Tkinter-based desktop GUI
 * Custom styling
@@ -71,7 +71,7 @@ The application uses **Tkinter** for the graphical interface and **MySQL** for p
 
 ---
 
-## 🏗️ Technology Stack
+##  Technology Stack
 
 | Technology             | Purpose                      |
 | ---------------------- | ---------------------------- |
@@ -86,7 +86,7 @@ The application uses **Tkinter** for the graphical interface and **MySQL** for p
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 QuizApp/
@@ -106,7 +106,7 @@ QuizApp/
 
 ---
 
-## 🗄️ Database
+##  Database
 
 Quiz Master uses **MySQL** as its relational database.
 
@@ -136,7 +136,7 @@ Quizzes
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 Before running the application, make sure you have:
 
@@ -147,7 +147,7 @@ Before running the application, make sure you have:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -178,7 +178,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🗄️ MySQL Configuration
+##  MySQL Configuration
 
 Create a MySQL database:
 
@@ -202,7 +202,7 @@ DB_PORT=3306
 
 ---
 
-## ▶️ Running the Application
+##  Running the Application
 
 After configuring MySQL:
 
@@ -218,7 +218,7 @@ python quiz_app.py
 
 ---
 
-## 🔐 Authentication
+##  Authentication
 
 The application provides separate roles:
 
@@ -232,7 +232,7 @@ Users can register, log in, attempt quizzes, view results, and access leaderboar
 
 ---
 
-## 🧠 Concepts Demonstrated
+##  Concepts Demonstrated
 
 This project demonstrates several core programming concepts:
 
@@ -252,7 +252,7 @@ This project demonstrates several core programming concepts:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Possible improvements for future versions include:
 
@@ -273,7 +273,7 @@ Possible improvements for future versions include:
 
 ---
 
-## ⚠️ Security Note
+## Security Note
 
 This project was developed for academic and educational purposes.
 
@@ -289,7 +289,7 @@ Before using it in a production environment, authentication and database securit
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Imran Ghafoor**
 
