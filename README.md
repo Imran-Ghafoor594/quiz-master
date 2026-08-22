@@ -1,4 +1,4 @@
-# Quiz Master 🎯
+# Quiz Master 
 
 A desktop-based quiz management and examination system built with **Python, Tkinter, and MySQL**.
 
