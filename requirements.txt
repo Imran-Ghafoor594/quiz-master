@@ -1,0 +1,7 @@
+comtypes==1.4.11
+mysql-connector-python==9.3.0
+pillow==11.3.0
+pypiwin32==223
+pyttsx3==2.98
+pywin32==310
+fpdf2==25.1.1
